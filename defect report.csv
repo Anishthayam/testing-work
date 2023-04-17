@@ -1,0 +1,58 @@
+bug_id,bug_severity,priority,op_sys,assigned_to,bug_status,resolution,short_desc
+11,major,Highest,Windows,kishan@gmail.com,ASSIGNED,---,it is redirected to the home page
+22,major,Highest,Windows,kishan@gmail.com,ASSIGNED,---,it shows the error
+23,major,Highest,Windows,kishan@gmail.com,ASSIGNED,---,it shows the error
+4,critical,High,Windows,kishan@gmail.com,ASSIGNED,---,not as per expected result
+9,critical,High,Windows,kishan@gmail.com,ASSIGNED,---,not enough information of room is avalible
+14,major,High,Windows,kishan@gmail.com,ASSIGNED,---,map is not working
+17,major,High,Windows,kishan@gmail.com,ASSIGNED,---,no heading and title for get in touch module
+18,major,High,Windows,kishan@gmail.com,ASSIGNED,---,it do not show any error message
+20,major,High,Windows,kishan@gmail.com,ASSIGNED,---,error should be in the proper errror box
+24,normal,High,Windows,kishan@gmail.com,ASSIGNED,---,message field have no icon and alingment is not proper
+25,major,High,Windows,kishan@gmail.com,ASSIGNED,---,error should be in the proper errror box
+27,critical,High,Windows,kishan@gmail.com,ASSIGNED,---,it should referesh properly
+30,critical,High,Windows,kishan@gmail.com,ASSIGNED,---,it is not work properly
+31,major,High,Windows,kishan@gmail.com,ASSIGNED,---,not as per expected result
+32,major,High,Windows,kishan@gmail.com,ASSIGNED,---,it is not work properly
+35,normal,High,Windows,kishan@gmail.com,ASSIGNED,---,i is not working
+36,critical,High,Windows,kishan@gmail.com,ASSIGNED,---,not as per expected result
+39,major,High,Windows,kishan@gmail.com,ASSIGNED,---,it is redirected to the home page
+40,major,High,Windows,kishan@gmail.com,ASSIGNED,---,enter key is not working
+41,major,High,Windows,kishan@gmail.com,ASSIGNED,---,enter key is not working
+42,major,High,Windows,kishan@gmail.com,ASSIGNED,---,in calender we can not only  room for one day
+43,major,High,Windows,kishan@gmail.com,ASSIGNED,---,it do not show any error massage
+44,major,High,Windows,kishan@gmail.com,ASSIGNED,---,it do not show any error massage
+45,major,High,Windows,kishan@gmail.com,ASSIGNED,---,error which is shown is not in proper error box but it print the error
+46,major,High,Windows,kishan@gmail.com,ASSIGNED,---,it do not show any error massage
+47,major,High,Windows,kishan@gmail.com,ASSIGNED,---,error which is shown is not in proper error box but it print the error
+48,major,High,Windows,kishan@gmail.com,ASSIGNED,---,it do not show any error massage
+49,major,High,Windows,kishan@gmail.com,ASSIGNED,---,in mobile number field we enter alphabetic value it don't show any error message
+52,critical,High,Windows,kishan@gmail.com,ASSIGNED,---,in the calender the highlited colour of the box is very light
+53,major,High,Windows,kishan@gmail.com,ASSIGNED,---,in the calender the highlited colour of the box is very light
+54,major,High,Windows,kishan@gmail.com,ASSIGNED,---,date box we can not select
+55,normal,High,Windows,kishan@gmail.com,ASSIGNED,---,date box we can not select
+56,major,High,Windows,kishan@gmail.com,ASSIGNED,---,in calender we can not only  room for one day
+57,normal,High,Windows,kishan@gmail.com,ASSIGNED,---,in calender we only select room for night
+1,normal,Normal,Windows,kishan@gmail.com,ASSIGNED,---,after click on referesh button it referesh but some error shows
+2,major,Normal,Windows,kishan@gmail.com,ASSIGNED,---,after selest web site url and press enter key button it referesh but some error shows
+3,minor,Normal,Windows,kishan@gmail.com,ASSIGNED,---,it is not work properly
+6,normal,Normal,Windows,kishan@gmail.com,ASSIGNED,---,click on let me hack button the content which is writen on the top of the is disappear
+7,minor,Normal,Windows,kishan@gmail.com,ASSIGNED,---,the image is not open
+8,normal,Normal,Windows,kishan@gmail.com,ASSIGNED,---,not as per expected result
+15,normal,Normal,Windows,kishan@gmail.com,ASSIGNED,---,logo is not highlighted
+19,normal,Normal,Windows,kishan@gmail.com,ASSIGNED,---,it do not show any error message
+21,normal,Normal,Windows,kishan@gmail.com,ASSIGNED,---,wrong emial id works and do not show any error
+26,normal,Normal,Windows,kishan@gmail.com,ASSIGNED,---,enter key is not working
+28,normal,Normal,Windows,kishan@gmail.com,ASSIGNED,---,it should referesh properly
+29,normal,Normal,Windows,kishan@gmail.com,ASSIGNED,---,after selest web site url and press enter key button it referesh but some error shows
+33,normal,Normal,Windows,kishan@gmail.com,ASSIGNED,---,click on let me hack button the content which is writen on the top of the is disappear
+37,normal,Normal,Windows,kishan@gmail.com,ASSIGNED,---,not enough information of room is avalible
+38,normal,Normal,Windows,kishan@gmail.com,ASSIGNED,---,not as per expected result
+51,major,Normal,Windows,kishan@gmail.com,ASSIGNED,---,we can select the room which is alredy booked
+5,major,Low,Windows,kishan@gmail.com,ASSIGNED,---,it is not work properly
+10,minor,Low,Windows,kishan@gmail.com,ASSIGNED,---,not as per expected result
+12,normal,Low,Windows,kishan@gmail.com,ASSIGNED,---,it is redirected to the home page
+13,major,Low,Windows,kishan@gmail.com,ASSIGNED,---,map is not moving
+16,normal,Low,Windows,kishan@gmail.com,ASSIGNED,---,logo is not working
+34,normal,Low,Windows,kishan@gmail.com,ASSIGNED,---,the image is not open
+50,minor,Low,Windows,kishan@gmail.com,ASSIGNED,---,esc key is not working
